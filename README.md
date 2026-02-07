@@ -1,2 +1,3 @@
 # Speech-Recognition
-speech.png
+![Demo Screenshot](speech.png)
+
